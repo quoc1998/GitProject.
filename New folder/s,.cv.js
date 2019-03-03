@@ -1,0 +1,11 @@
+var r;
+var cv;
+var s;
+pi = 3.14;
+r = nhapsothuc;
+cv =(r,pi);
+s=(r,pi);
+var dientich;
+var chuvi;
+dientich = pow(3.14);
+chuvi = 2*r*3.14;
